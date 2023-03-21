@@ -1,0 +1,9 @@
+BTC = ' ' # Bitcoin
+ETH = ' ' # Ethereum
+ETHBEP2 = ' ' # Ethereum BEP-2
+LTC = ' ' # Litecoin
+DASH = ' ' # Dash
+DOGE = ' ' # Dogecoin
+RIPPLE = ' ' # Ripple
+TRON = ' ' # Tron
+BTCCASH = 'bitcoincash: ' # Bitcoincash
